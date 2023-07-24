@@ -5,25 +5,16 @@
 /* Keyframes */
 @import url(../blocks/rotation.css);
 
-/* logo */
+/* Content */
 @import url(../blocks/logo.css);
-
-/* Block Header */
 @import url(../blocks/header.css);
-
-/* Block Description */
-@import url(../blocks/description.css);
-
-/* Block Techniques */
+@import url(../blocks/two-columns.css);
 @import url(../blocks/techniques.css);
-/* Block Digits */
+@import url(../blocks/section-title.css);
+@import url(../blocks/section-subtitle.css);
+@import url(../blocks/cards.css);
 @import url(../blocks/digits.css);
-
-/* Block Feynman */
+@import url(../blocks/table.css);
 @import url(../blocks/feynman.css);
-
-/* Block Kaufman */
 @import url(../blocks/kaufman.css);
-
-/* Block Footer */
 @import url(../blocks/footer.css);
