@@ -1,0 +1,30 @@
+.table {
+  width: 1100px;
+  margin: auto;
+  padding: 0;
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.table__cell {
+  text-align: start;
+  width: 250px;
+  padding: 60px 0 0;
+}
+.table__cell_theme_dark {
+  width: 200px;
+  padding: 80px 0 0;
+  color: white;
+  z-index: 1;
+}
+.table__heading {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 24px;
+}
+.table__text {
+  margin: 20px auto 0;
+  line-height: 1.2;
+  font-size: 18px;
+}
