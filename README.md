@@ -4,7 +4,7 @@ This is the second project of the Web Development program at Triple Ten. I Was c
 ## Project Features
 * Semantic HTML5
 * Positioning
-* Nested BEM File Structure
+* BEM File Structure
 * Methodology BEM
 * Embed Content
 * CSS Animation
